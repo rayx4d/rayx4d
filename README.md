@@ -2,7 +2,7 @@
 I'm an self-taught engineer from Belarus that is very and very interested in systems programing, graphics programing, gamedev and especially hardware. Currently studying C++ with Unreal Engine 5 and it's modding from source.
 
 My goals in life are to:
-1) achieve a great depth of expertise in two areas at once - software engineering and hardware engineering.
+1) Achieve a great depth of expertise in two areas at once - software engineering and hardware engineering.
 2) Be able to collaborate and help with any promising projects, to make an active contribution in great things.
 
 I'm incredibly inspired by companies like Framework for their breakthrough in creating highly maintainable hardware for software developers and Valve for their strong growth in Linux support, for their good hardware engineering, open source, and excellent games, both in terms of story/entertainment and technical aspects (Source 2 my beloved).
